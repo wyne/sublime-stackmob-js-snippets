@@ -1,4 +1,4 @@
-This is a [Sublime Text][sublime] package which includes snippets for doing StackMob JavaScript development.
+This is a [Sublime Text](http://www.sublimetext.com/) package which includes snippets for doing [StackMob](http://www.stackmob.com) JavaScript development.
 
 ## Installation ##
 
