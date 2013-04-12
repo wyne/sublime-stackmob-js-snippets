@@ -1,16 +1,9 @@
 <snippet>
   <content><![CDATA[
-${1:object}.create({
-  success: function(model, result, options){
-    ${2:console.log(model);}
-  },
-  error: function(model, response, options){
-    ${3:console.log(response);}
-  }
-});
+var ${1:object} = new ${2:Object}({${3:property}: "${4:value}"});
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>smc</tabTrigger>
+  <tabTrigger>smn</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.js,source.js.embedded.html</scope>
 </snippet>
