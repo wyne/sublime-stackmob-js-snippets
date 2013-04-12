@@ -9,14 +9,14 @@ This is a [Sublime Text](http://www.sublimetext.com/) package which includes sni
 
 #### Mac
 
-    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
 
 #### Windows 7
 
-    $ cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages"
+    $ cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages\User"
 
 ### 2. Download
 
-    $ git clone git@github.com:wyne/sublime-stackmob-js-snippets.git
+    $ git clone git@github.com:wyne/sublime-stackmob-js-snippets.git stackmob-js
 
 
