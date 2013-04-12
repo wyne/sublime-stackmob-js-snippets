@@ -12,6 +12,6 @@ This is a [Sublime Text](http://www.sublimetext.com/) package which includes sni
 
     cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages"
 
-### 3. Download
+### 2. Download
 
     $ git clone git@github.com:wyne/sublime-stackmob-js-snippets.git
