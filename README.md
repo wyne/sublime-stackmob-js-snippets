@@ -7,9 +7,9 @@ This is a [Sublime Text](http://www.sublimetext.com/) package which includes sni
 
 ### 1. Find Packages Directory
 
-#### Mac OS
+#### Mac
 
-    cd "~/Library/Application Support/Sublime Text 3/Packages"
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 
 #### Windows 7
 
