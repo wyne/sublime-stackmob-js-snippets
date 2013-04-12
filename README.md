@@ -9,11 +9,11 @@ This is a [Sublime Text](http://www.sublimetext.com/) package which includes sni
 
 #### Mac
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 
 #### Windows 7
 
-    cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages"
+    $ cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages"
 
 ### 2. Download
 
