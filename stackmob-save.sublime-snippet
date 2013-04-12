@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+${1:object}.save({ ${2:parameter}: "${3:value}" }, {
+  success: function(model, result, options) {
+    ${4:console.log(model);}
+  },
+  error: function(model, result, options) {},
+    ${5:console.log(result);}
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>sms</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

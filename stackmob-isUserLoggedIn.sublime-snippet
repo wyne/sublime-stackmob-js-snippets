@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+StackMob.isUserLoggedIn("${1:username}", {
+  yes: function(username){
+    ${2:console.log(username + " is logged in.");}
+  },
+  no: function(result){
+    ${3:console.log(username + " is logged in.");}
+  }
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>smiuli</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

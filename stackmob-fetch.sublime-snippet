@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+${1:object}.fetch({
+  success: function(model, result, options){
+    ${2:console.log(model);}
+  },
+  error: function(model, response, options){
+    ${3:console.log(response);}
+  }
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>smf</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

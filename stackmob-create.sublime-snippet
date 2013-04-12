@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+${1:object}.create({
+  success: function(model, result, options) {
+    ${2:...}
+  },
+  error: function(model, result, options) {
+    ${3:...}
+  }
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>smc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

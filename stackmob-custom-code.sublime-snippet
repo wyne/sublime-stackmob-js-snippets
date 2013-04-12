@@ -1,0 +1,22 @@
+<snippet>
+  <content><![CDATA[
+StackMob.customcode("${1:ccmethod}", 
+  {
+    ${2:parameter}: "${3:value}"
+  },
+  "${4:GET}",
+  {
+    success: function(result) {
+      ${5:console.log(result);}
+    },
+    error: function(err) {
+      ${6:console.log(err);}
+    }
+  }
+);
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>smcc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>

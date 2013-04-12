@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+var ${1:Object} = StackMob.Model.extend({
+  schemaName: "${2:object}"
+});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>smmodel</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js,source.js.embedded.html</scope>
+</snippet>
