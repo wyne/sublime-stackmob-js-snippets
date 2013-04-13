@@ -7,13 +7,12 @@ This is a [Sublime Text](http://www.sublimetext.com/) package which includes sni
 
 ### 1. Find Packages Directory
 
-#### Mac
+* Mac `cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User`
+* Windows: `cd %APPDATA%\Sublime Text 2\Packages\User`
+* Linux: `cd ~/.Sublime\ Text\ 2/Packages` or `cd ~/.config/sublime-text-2/Packages`
+* Portable: Sublime Text 2/Data/Packages
 
-    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
-
-#### Windows 7
-
-    $ cd "C:\Users\YOUR_USERNAME\AppData\Roaming\Sublime Text 3\Packages\User"
+Can't find your packages? Open sublime and press ``ctrl + ` `` and type `sublime.packages_path()`.
 
 ### 2. Download
 
