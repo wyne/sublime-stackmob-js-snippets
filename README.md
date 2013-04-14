@@ -20,3 +20,33 @@ This is a [Sublime Text](http://www.sublimetext.com/) package which includes sni
     $ git clone git@github.com:wyne/sublime-stackmob-js-snippets.git stackmob-js
 
 
+## Usage
+
+In a javascript file or within a script tag in an html file, type `sm` as the start to one of the triggers below.
+
+<table>
+  <tr>
+    <th>Trigger</th>
+    <th>StackMobMethod</th>
+  </tr>
+  <tr>
+    <td>smc</td>
+    <td>StackMob.create()</td>
+  </tr>
+  <tr>
+    <td>smf</td>
+    <td>StackMob.fetch()</td>
+  </tr>
+  <tr>
+    <td>smfe</td>
+    <td>StackMob.fetchExpanded()</td>
+  </tr>
+  <tr>
+    <td>smn</td>
+    <td>var object = new Object({`property`: "`value`"});</td>
+  </tr>
+  <tr>
+    <td>sminit</td>
+    <td>StackMob.init()</td>
+  </tr>
+</table>
