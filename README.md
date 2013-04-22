@@ -26,19 +26,11 @@ In a javascript file or within a script tag in an html file, type `sm` as the st
 <table>
   <tr>
     <th>Trigger</th>
-    <th>StackMobMethod</th>
+    <th>StackMob Method</th>
   </tr>
   <tr>
     <td>smc</td>
-    <td>StackMob.create()</td>
-  </tr>
-  <tr>
-    <td>smf</td>
-    <td>StackMob.fetch()</td>
-  </tr>
-  <tr>
-    <td>smfe</td>
-    <td>StackMob.fetchExpanded()</td>
+    <td>object.create()</td>
   </tr>
   <tr>
     <td>smn</td>
@@ -47,5 +39,33 @@ In a javascript file or within a script tag in an html file, type `sm` as the st
   <tr>
     <td>sminit</td>
     <td>StackMob.init()</td>
+  </tr>
+  <tr>
+    <td>sms</td>
+    <td>object.save()</td>
+  </tr>
+  <tr>
+    <td>smmodel</td>
+    <td>var Object = StackMob.Model.extend({ schemaName: "schema" });</td>
+  </tr>
+  <tr>
+    <td>smiuli</td>
+    <td>StackMob.isUserLoggedIn()</td>
+  </tr>
+  <tr>
+    <td>smili</td>
+    <td>StackMob.isLoggedIn()</td>
+  </tr>
+  <tr>
+    <td>smf</td>
+    <td>object.fetch()</td>
+  </tr>
+  <tr>
+    <td>smfe</td>
+    <td>object.fetchExpanded()</td>
+  </tr>
+  <tr>
+    <td>smcc</td>
+    <td>StackMob.customcode()</td>
   </tr>
 </table>
